@@ -4,8 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I am a keen and inquisitive learner, currently pursuing MS Applied Data Science Student at University of Southern California. 
 
+After completing my undergrduate degree in Computer Science with Cum Laude, I was selected to work with Elsevier Inc. as a software engineer where I worked on developing applications for medical professionals and students. 
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
